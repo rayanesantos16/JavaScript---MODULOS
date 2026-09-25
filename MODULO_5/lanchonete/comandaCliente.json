@@ -1,0 +1,16 @@
+{
+  "Estabelecimento": "Lanchonete JavaScript",
+  "cliente": {
+    "id": 2,
+    "nome": "Michele"
+  },
+  "itens": [
+    {
+      "item": "Suco Natural",
+      "quantidade": 3,
+      "precoUnitario": 10,
+      "subTotal": 30
+    }
+  ],
+  "totalPagar": 30
+}
