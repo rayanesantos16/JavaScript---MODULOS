@@ -1,0 +1,14 @@
+{
+  "name": "modulo_6",
+  "version": "1.0.0",
+  "description": "API de teste com alunos do 2B",
+  "main": "index.js",
+  "scripts": {
+    "start": "node servidorLivros.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
