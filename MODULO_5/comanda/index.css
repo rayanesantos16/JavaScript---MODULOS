@@ -1,0 +1,33 @@
+    body {
+      font-family: 'Courier New', monospace;
+      background-color: #ffffff;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    /* Simulação do papel de cupom térmico */
+    .cupom {
+      background-color: #f6eaac;
+      width: 300px;
+      padding: 16px;
+      border: 1px solid #ccc;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .centralizado { text-align: center; }
+    .negrito { font-weight: bold; }
+    .separador { border-top: 1px dashed #000; margin: 10px 0; }
+
+    /* Tabela de itens */
+    table { width: 100%; font-size: 13px; border-collapse: collapse; }
+    th { text-align: left; }
+    .direita { text-align: right; }
+    .centro { text-align: center; }
+
+    .linha-resumo {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      margin: 4px 0;
+    }
